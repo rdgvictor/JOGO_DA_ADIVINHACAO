@@ -1,0 +1,1 @@
+Meu primeiro projeto em Go (Golang). Desenvolvi um jogo de adivinhação com número aleatório entre 1 e 10, utilizando laços de repetição e entrada de dados. O usuário recebe dicas até acertar o valor ou pode desistir digitando 0, quando o número sorteado é revelado.
